@@ -1,0 +1,8 @@
+If the user tries to add a book then the user must have to provide the below specific Information about the book:
+Enter Book Name:
+Enter Author Name:
+Enter Pages:
+Enter Price:
+When the user tries to display all books of a particular author then the user must have to enter the name of the author:
+Enter the author’s name:
+The E-Library Management System must be also capable of counting all the books available in the library.
